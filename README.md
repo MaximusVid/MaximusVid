@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Final Year Thesis**
 
-- 🌱 I’m currently learning **Flutter, React, Next.JS, Tailwind CSS**
+- 🌱 I’m currently learning **Flutter, React, Next.JS, Tailwind CSS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://maximusvid.github.io/Portfolio-Website-David/](https://maximusvid.github.io/Portfolio-Website-David/)
 
