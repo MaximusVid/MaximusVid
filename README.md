@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maximusvid&label=Profile%20views&color=0e75b6&style=flat" alt="maximusvid" /> </p>
 
-- 🔭 I’m currently working on **Final Year Thesis**
+- 🔭 I currently work as **Frontend Developer** at MetaPals Pte. Ltd.
 
-- 🌱 I’m currently learning **Flutter, React, Next.JS, Tailwind CSS, MongoDB**
+- 🌱 I’m currently learning **React, Next.JS, Tailwind CSS, MongoDB, Rest API**
 
 - 👨‍💻 All of my projects are available at [https://maximusvid.github.io/Portfolio-Website-David/](https://maximusvid.github.io/Portfolio-Website-David/)
 
